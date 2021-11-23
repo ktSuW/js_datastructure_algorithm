@@ -49,10 +49,12 @@ const reverseString4 = (string) => string.split("").reverse("").join("");
 // console.log(reverseString4("hello"));
 
 var reverseString3 = function (string) {
-  let s = 0;
-  let e = string.length;
+  let start = 0;
+  let end = string.length;
   while (s < e) {
+    [s[start], s[end]] = [s[end], s[start]];
     s++;
     end--;
   }
+  return string;
 };
