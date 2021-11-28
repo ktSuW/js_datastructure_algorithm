@@ -38,6 +38,8 @@ var setZeroes = function (matrix) {
 };
 
 // Approach : array to keep track of 0 positions
+// Time O(m*n)
+// Space O(m+n)
 var setZeroes_1 = function (matrix) {
   var track = [];
 

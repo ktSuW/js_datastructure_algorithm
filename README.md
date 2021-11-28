@@ -7,6 +7,7 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
