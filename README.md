@@ -5,6 +5,8 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 ## Topics
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+  - [Generation in lexicographic order, discovered by Narayana Pandita](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
@@ -16,3 +18,4 @@ This repo contains the data structure and algorithms I practice in JavaScript.
   - [223 Rectangle Area YouTube Solution](https://www.youtube.com/watch?v=KrExoVSBSW4&ab_channel=ktsuw_21)
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+-
