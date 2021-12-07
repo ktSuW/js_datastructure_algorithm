@@ -21,4 +21,4 @@ This repo contains the data structure and algorithms I practice in JavaScript.
   - [223 Rectangle Area YouTube Solution](https://www.youtube.com/watch?v=KrExoVSBSW4&ab_channel=ktsuw_21)
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
--
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
