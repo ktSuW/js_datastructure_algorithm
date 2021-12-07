@@ -22,3 +22,4 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
