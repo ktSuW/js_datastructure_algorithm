@@ -180,3 +180,7 @@ let swapBubbleSort = (nums, i, j) => {
   nums[i] = nums[i] ^ nums[j];
 };
 
+
+/**
+ * Selection Sort
+ */
