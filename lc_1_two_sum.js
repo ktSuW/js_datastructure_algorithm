@@ -17,3 +17,4 @@ var twoSum = function (nums, target) {
   // Once complete the list, if cannot find it, return empty array
   return [];
 };
+

@@ -46,6 +46,6 @@ var generate_1 = function (numRows) {
     pascalTriangle.push(currRow);
   }
   return pascalTriangle;
-};
+;
 
 console.log(generate_1(numRows));
