@@ -45,7 +45,7 @@ let midNodePosition = function( node, midLength){
 // Approach 2 : 
 var middleNode2 = function(head) {
     let node = head;
-    let count = 1;
+    let count = 1; // 0
     // Time O(n)
     // It has to be node.next
     while(node.next){
@@ -53,7 +53,7 @@ var middleNode2 = function(head) {
         count ++;
     }
 
-    count = parseInt(count/2);
+    count = parseInt(count/2); // count = count/2;
     // Time O(n/2)
     while(count > 0){
         head = head.next;
