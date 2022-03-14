@@ -26,3 +26,4 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
