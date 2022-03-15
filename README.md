@@ -22,9 +22,11 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Add more approaches that satisfy the requirement of not modifying the array and not using extra space
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
+
