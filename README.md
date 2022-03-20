@@ -29,4 +29,6 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
+- [2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)
+- [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)
 
