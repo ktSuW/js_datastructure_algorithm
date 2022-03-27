@@ -33,4 +33,9 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
 - [2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)
 - [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)
+- [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 
+<hr>
+
+### Below is yet to be solved. Learn Greedy technique first
+- [2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)
