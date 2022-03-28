@@ -37,5 +37,13 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 
 <hr>
 
+### Geeks for Geeks 
+
+
+#### Greedy Technique 
+
+- [Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?page=1&category[]=Greedy&sortBy=submissions)
+  - [Minimum Platforms | Greedy Algorithms](https://www.youtube.com/watch?v=dxVcMDI7vyI)
+
 ### Below is yet to be solved. Learn Greedy technique first
 - [2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)
