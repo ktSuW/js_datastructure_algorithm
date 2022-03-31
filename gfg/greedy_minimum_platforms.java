@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?page=1&category[]=Greedy&sortBy=submissions
 // Question to ask interview - is the arival time sorted?
 // When the train arrives and when it leaves
 /**
