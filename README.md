@@ -7,6 +7,7 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
   - [Generation in lexicographic order, discovered by Narayana Pandita](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
@@ -26,6 +27,7 @@ This repo contains the data structure and algorithms I practice in JavaScript.
   - Add more approaches that satisfy the requirement of not modifying the array and not using extra space
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
