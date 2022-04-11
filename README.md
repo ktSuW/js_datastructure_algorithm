@@ -38,6 +38,7 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - [2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)
+- [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
 
 <hr>
 
