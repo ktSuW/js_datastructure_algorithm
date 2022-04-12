@@ -8,6 +8,7 @@ This repo contains the data structure and algorithms I practice in JavaScript.
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
   - [Generation in lexicographic order, discovered by Narayana Pandita](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
