@@ -43,6 +43,8 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
 - [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
 - [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
 - [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+- [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
+  - [javascript sort](https://forum.freecodecamp.org/t/arr-sort-a-b-a-b-explanation/167677/3)
 
 <hr>
 
