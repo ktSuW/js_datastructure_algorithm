@@ -8,6 +8,7 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
   - [Generation in lexicographic order, discovered by Narayana Pandita](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)
+- [49. Group Anagram](https://leetcode.com/problems/group-anagrams/)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
