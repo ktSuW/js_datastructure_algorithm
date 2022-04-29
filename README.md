@@ -30,6 +30,7 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
   - Add more approaches that satisfy the requirement of not modifying the array and not using extra space
 - [344 Reverse String](https://leetcode.com/problems/reverse-string/)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
