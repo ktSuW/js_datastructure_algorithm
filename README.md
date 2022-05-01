@@ -47,6 +47,8 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
 - [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
   - [javascript sort](https://forum.freecodecamp.org/t/arr-sort-a-b-a-b-explanation/167677/3)
+- [2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
+- [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 
 <hr>
 
