@@ -49,7 +49,8 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
   - [javascript sort](https://forum.freecodecamp.org/t/arr-sort-a-b-a-b-explanation/167677/3)
 - [2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
 - [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
-
+- [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
+- [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 <hr>
 
 ### Geeks for Geeks 
