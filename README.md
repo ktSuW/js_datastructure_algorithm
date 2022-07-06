@@ -1,6 +1,6 @@
 # JavaScript - Data Structure and Algorithms
 
-This repo contains the data structure and algorithms I practice in JavaScript.
+This repo contains the data structure and algorithms I practice in JavaScript, C# & Java.
 
 ## Topics
 
