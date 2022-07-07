@@ -4,7 +4,8 @@ This repo contains the data structure and algorithms I practice in JavaScript, C
 
 ## Topics
 
-Problems vistualisation can be found in [this page](./img/leetcode__whiteboarding.pdf). 
+Problems vistualisation can be found in [this page](./img/leetcode__whiteboarding.pdf).
+
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -34,6 +35,7 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+- [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
@@ -55,13 +57,16 @@ Problems vistualisation can be found in [this page](./img/leetcode__whiteboardin
 - [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 <hr>
 
-### Geeks for Geeks 
+### Pending
 
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
-#### Greedy Technique 
+#### Greedy Technique
 
 - [Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?page=1&category[]=Greedy&sortBy=submissions)
   - [Minimum Platforms | Greedy Algorithms](https://www.youtube.com/watch?v=dxVcMDI7vyI)
 
 ### Below is yet to be solved. Learn Greedy technique first
+
 - [2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)
